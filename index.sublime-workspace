@@ -1,0 +1,755 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curl",
+				"curl_setopt〔function〕"
+			],
+			[
+				"fade",
+				"fadeOut\t.fadeOut()"
+			],
+			[
+				"back",
+				"backcolor"
+			],
+			[
+				"rem",
+				"removeAttr〔function〕"
+			],
+			[
+				"ust",
+				"ust_div"
+			],
+			[
+				"nav",
+				"navbar-right \tBootstrap 3 Class"
+			],
+			[
+				"panel-",
+				"panel-title \tBootstrap 3 Class"
+			],
+			[
+				"text-al",
+				"text-align"
+			],
+			[
+				"sembo",
+				"semboller〔variable〕"
+			],
+			[
+				"remove",
+				"removeAttr\t.removeAttr()"
+			],
+			[
+				"attr",
+				"attr\t.attr() - single"
+			],
+			[
+				"sifre",
+				"sifre_durum〔variable〕"
+			],
+			[
+				"deger",
+				"deger_2"
+			],
+			[
+				"slide",
+				"slideUp\t.slideUp()"
+			],
+			[
+				"alert",
+				"alert-danger \tBootstrap 3 Class"
+			],
+			[
+				"buyuk",
+				"buyuk_Harf〔variable〕"
+			],
+			[
+				"on",
+				"on〔function〕"
+			],
+			[
+				"progre",
+				"progress-bar"
+			],
+			[
+				"kayit",
+				"kayitsifre"
+			],
+			[
+				"glyphicon-",
+				"glyphicon-edit \tBootstrap 3 Class"
+			],
+			[
+				"glyphicon-p",
+				"glyphicon-plus-sign \tBootstrap 3 Class"
+			],
+			[
+				"progress",
+				"progress-bar-success \tBootstrap 3 Class"
+			],
+			[
+				"panel",
+				"panel-heading \tBootstrap 3 Class"
+			],
+			[
+				"img",
+				"img-rounded \tBootstrap 3 Class"
+			],
+			[
+				"navbar-f",
+				"navbar-fixed-top"
+			],
+			[
+				"ready",
+				"ready\t$(document).ready"
+			],
+			[
+				"doc",
+				"document〔variable〕"
+			],
+			[
+				"input-",
+				"input-group-sm \tBootstrap 3 Class"
+			],
+			[
+				"data-",
+				"data-target"
+			],
+			[
+				"giris",
+				"giris_form"
+			],
+			[
+				"form-",
+				"form-group \tBootstrap 3 Class"
+			],
+			[
+				"navbar-",
+				"navbar-fixed-bottom \tBootstrap 3 Class"
+			],
+			[
+				"scroll",
+				"scrollTop\t.scrollTop()"
+			],
+			[
+				"btnd",
+				"btn-default \tBootstrap 3 Class"
+			],
+			[
+				"collapse",
+				"navbar-collapse \tBootstrap 3 Class"
+			],
+			[
+				"header",
+				"navbar-header \tBootstrap 3 Class"
+			],
+			[
+				"navbar-fi",
+				"navbar-fixed-top \tBootstrap 3 Class"
+			],
+			[
+				"contai",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"dropd",
+				"dropdown-toggle \tBootstrap 3 Class"
+			],
+			[
+				"dropdo",
+				"dropdown-toggle \tBootstrap 3 Class"
+			],
+			[
+				"cont",
+				"container-fluid \tBootstrap 3 Class"
+			],
+			[
+				"glyph",
+				"glyphicon-chevron-left \tBootstrap 3 Class"
+			],
+			[
+				"caro",
+				"carousel-caption \tBootstrap 3 Class"
+			],
+			[
+				"car",
+				"carousel-control \tBootstrap 3 Class"
+			],
+			[
+				"glyphicon-chev",
+				"glyphicon-chevron-left \tBootstrap 3 Class"
+			],
+			[
+				"popo",
+				"popoverkullan"
+			],
+			[
+				"win",
+				"$window\tAngularJS"
+			],
+			[
+				"remv",
+				"removeClass〔function〕"
+			],
+			[
+				"inde",
+				"index"
+			],
+			[
+				"data-t",
+				"data-toggle"
+			],
+			[
+				"pane",
+				"panel-heading \tBootstrap 3 Class"
+			],
+			[
+				"paneld",
+				"panel-default \tBootstrap 3 Class"
+			],
+			[
+				"list-go",
+				"list-group-item \tBootstrap 3 Class"
+			],
+			[
+				"list-g",
+				"list-group-item \tBootstrap 3 Class"
+			],
+			[
+				"data",
+				"data-toggle"
+			],
+			[
+				"list",
+				"list-group-item-danger \tBootstrap 3 Class"
+			],
+			[
+				"labe",
+				"label-danger \tBootstrap 3 Class"
+			],
+			[
+				"modal-",
+				"modal-content \tBootstrap 3 Class"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"ca",
+				"caret \tBootstrap 3 Class"
+			],
+			[
+				"dr",
+				"dropdown-toggle \tBootstrap 3 Class"
+			],
+			[
+				"table",
+				"table-bordered \tBootstrap 3 Class"
+			],
+			[
+				"list-group-item-",
+				"list-group-item-heading \tBootstrap 3 Class"
+			],
+			[
+				"glyp",
+				"glyphicon-camera \tBootstrap 3 Class"
+			],
+			[
+				"img-r",
+				"img-responsive \tBootstrap 3 Class"
+			],
+			[
+				"page",
+				"page-header \tBootstrap 3 Class"
+			],
+			[
+				"text-",
+				"text-primary \tBootstrap 3 Class"
+			],
+			[
+				"alerr",
+				"alert-danger \tBootstrap 3 Class"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"wra",
+				"wrap-reverse"
+			],
+			[
+				"wrap",
+				"wrap-reverse"
+			],
+			[
+				"renk",
+				"renklendir"
+			],
+			[
+				"temp",
+				"template"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"uygu",
+				"uygulaman-ng"
+			],
+			[
+				"kop",
+				"kopekler"
+			],
+			[
+				"kedi",
+				"kediler"
+			],
+			[
+				"ng-s",
+				"ng-show\tAngularJS"
+			],
+			[
+				"kon",
+				"kontrol_et"
+			],
+			[
+				"ha",
+				"hayvan"
+			],
+			[
+				"hayv",
+				"hayvanlar_alemi"
+			],
+			[
+				"a",
+				"angular.js"
+			],
+			[
+				"kope",
+				"kopek_goster"
+			],
+			[
+				"scope",
+				"$scope\tAngularJS"
+			],
+			[
+				"foc",
+				"focus\t.focus()"
+			],
+			[
+				"ngi",
+				"ng-init\tAngularJS"
+			],
+			[
+				"sayi",
+				"sayilar"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"set",
+				"setInterval〔function〕"
+			],
+			[
+				"top",
+				"toplam_yukseklik"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"scr",
+				"scroll〔function〕"
+			],
+			[
+				"border-rad",
+				"border-radius"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bro",
+				"browser〔namespace〕"
+			],
+			[
+				"br",
+				"browser\t$.browser()"
+			],
+			[
+				"brow",
+				"browser〔variable〕"
+			],
+			[
+				"text-in",
+				"text-indent: 〔property〕"
+			],
+			[
+				"sayfa",
+				"sayfalama"
+			],
+			[
+				"ajas",
+				"ajaxstop\t$.ajaxStop()"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"su",
+				"suan"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"sub",
+				"submit\t.submit()"
+			],
+			[
+				"focus",
+				"focusout\t.focusout()"
+			],
+			[
+				"wa",
+				"wrap〔function〕"
+			],
+			[
+				"has",
+				"hasClass〔function〕"
+			],
+			[
+				"sli",
+				"slideDown\t.slideDown()"
+			],
+			[
+				"class",
+				"removeClass〔function〕"
+			],
+			[
+				"remov",
+				"removeClass〔function〕"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"ani",
+				"animate\t.animate() with callback"
+			],
+			[
+				"an",
+				"animate\t.animate() with callback"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"fun",
+				"func〔variable〕"
+			],
+			[
+				"text-ali",
+				"text-align: 〔property〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: <?php else: ?>"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package installe",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 725.0
+	},
+	"console":
+	{
+		"height": 435.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/xampp/htdocs/lgsl/lgsl_files/lgsl_config.php",
+		"/D/xampp/htdocs/bootstrap-calisma/js/arkaplan.js",
+		"/D/xampp/htdocs/bootstrap-calisma/js/site.js",
+		"/D/xampp/htdocs/bot.php",
+		"/D/xampp/htdocs/bootstrap-calisma/index.php",
+		"/D/xampp/htdocs/csduragi.php",
+		"/D/xampp/htdocs/proje_yeni/ayar.php",
+		"/C/Users/Ahmet/AppData/Local/Temp/Rar$DIa0.052/admin_reset.php",
+		"/D/xampp/htdocs/angularjs/7.php",
+		"/D/xampp/htdocs/angularjs/6.php",
+		"/D/xampp/htdocs/angularjs/5.php",
+		"/D/xampp/htdocs/angularjs/3.php",
+		"/D/xampp/htdocs/angularjs/4.php",
+		"/D/xampp/htdocs/angularjs/2.php",
+		"/D/xampp/htdocs/bootstrap/menu.php",
+		"/D/xampp/htdocs/bootstrap/slider.php",
+		"/D/xampp/htdocs/color.php",
+		"/D/xampp/htdocs/bootstrap/index.php",
+		"/D/xampp/htdocs/tema/index.html",
+		"/D/xampp/htdocs/bootstrap/jquery-3.2.1.js",
+		"/D/xampp/htdocs/jquery/plugin.php",
+		"/D/xampp/htdocs/window.php",
+		"/D/xampp/htdocs/tema/panels.html",
+		"/D/xampp/htdocs/tema/notifications.html",
+		"/D/xampp/htdocs/angularjs/css-degis.php",
+		"/D/xampp/htdocs/boostrap kullanım/index.php",
+		"/D/xampp/htdocs/angularjs/deneme.php",
+		"/D/xampp/htdocs/jquery/24.php",
+		"/D/xampp/htdocs/jquery/23.php",
+		"/D/xampp/htdocs/jquery/22.php",
+		"/D/xampp/htdocs/jquery/21.php",
+		"/D/xampp/htdocs/jquery/ajax.php",
+		"/D/xampp/htdocs/flex/index.php",
+		"/D/xampp/htdocs/flex/style.css",
+		"/C/Users/Ahmet/AppData/Local/Temp/Rar$DIa0.139/style.css",
+		"/C/Users/Ahmet/AppData/Local/Temp/Rar$DIa0.076/header.php",
+		"/D/xampp/htdocs/jquery/6.php",
+		"/D/xampp/htdocs/jquery/7.php",
+		"/D/xampp/htdocs/angularjs/angular.min.js",
+		"/D/xampp/htdocs/angularjs/1.php",
+		"/D/xampp/htdocs/angularjs/angular.js",
+		"/D/xampp/htdocs/jquery/20.php",
+		"/D/xampp/htdocs/jquery-calisma/style.css",
+		"/D/xampp/htdocs/jquery-calisma/index.php",
+		"/D/xampp/htdocs/jquery-calisma/site.js",
+		"/D/xampp/htdocs/jquery/15.php",
+		"/C/Users/Ahmet/Desktop/Yeni Tema - Proje/proje_yeni/index.php",
+		"/D/xampp/htdocs/css-calis/style.css",
+		"/D/xampp/htdocs/css-calis/index.php",
+		"/D/xampp/htdocs/jquery/enes/Kodlar/haberupdate.php",
+		"/D/xampp/htdocs/jquery/enes/Kodlar/haberadd.php",
+		"/D/xampp/htdocs/jquery/enes/Kodlar/haberduzenle.php",
+		"/D/xampp/htdocs/jquery/enes/Kodlar/haberduzenlesil.php",
+		"/D/xampp/htdocs/jquery/enes/Kodlar/haberler.php",
+		"/D/xampp/htdocs/jquery/enes/Kodlar/head.php",
+		"/D/xampp/htdocs/jquery/enes/Kodlar/header.php",
+		"/C/Users/Ahmet/AppData/Local/Temp/Rar$DIa0.333/admin_detay.php",
+		"/D/xampp/htdocs/jquery/enes/Kodlar/haberekle.php",
+		"/D/xampp/htdocs/jquery/5.php",
+		"/D/xampp/htdocs/jquery/4.php",
+		"/D/xampp/htdocs/jquery/3.php",
+		"/C/Users/Ahmet/AppData/Local/Temp/Rar$DIa0.310/index.php",
+		"/C/Users/Ahmet/AppData/Local/Temp/Rar$DIa0.927/index.php",
+		"/D/xampp/htdocs/jquery/19.php",
+		"/D/xampp/htdocs/proje_yeni/index.php",
+		"/D/xampp/htdocs/jquery/17.php",
+		"/D/xampp/htdocs/jquery/18.php",
+		"/D/xampp/htdocs/jquery/16.php",
+		"/D/xampp/htdocs/jquery/14.php",
+		"/D/xampp/htdocs/jquery/13.php",
+		"/D/xampp/htdocs/jquery/12.php",
+		"/D/xampp/htdocs/jquery/11.php",
+		"/D/xampp/htdocs/jquery/9.php",
+		"/D/xampp/htdocs/jquery/10.php",
+		"/D/xampp/htdocs/jquery/8.php",
+		"/D/xampp/htdocs/jquery/2.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"form-group",
+			")\">&",
+			"affix",
+			"img",
+			">\n",
+			"data-to",
+			"panel-headin",
+			">\n",
+			"kedi",
+			">\n",
+			"<?",
+			".\n",
+			"\t\t\t\t\t\t\t\t\t\t\t\n",
+			"200px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
